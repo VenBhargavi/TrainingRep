@@ -1,0 +1,1 @@
+In Eclipse, try to view the code in Git mode
